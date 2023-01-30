@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.AssemblyInfo.cs
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\bin\Debug\net6.0\Invoiceee.exe
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\bin\Debug\net6.0\Invoiceee.deps.json
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\bin\Debug\net6.0\Invoiceee.runtimeconfig.json
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\bin\Debug\net6.0\Invoiceee.dll
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\bin\Debug\net6.0\Invoiceee.pdb
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.dll
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\refint\Invoiceee.dll
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.pdb
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\Invoiceee.genruntimeconfig.cache
+C:\Users\user\Desktop\code\Invoiceee\Invoiceee\obj\Debug\net6.0\ref\Invoiceee.dll
